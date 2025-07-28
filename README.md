@@ -1,8 +1,8 @@
 # Relationship Advisor MVP
 
-This minimal web application allows users to describe a relationship situation and receive
-analysis from GPT-4 about the behavior involved, the pros and cons of the person in question,
-and a suggested plan of action.
+This minimal web application allows users to chat with a relationship advisor
+powered by GPT-4. Simply type questions about your situation and you'll receive
+analysis and suggested plans of action in a conversational format.
 
 ## Setup
 
@@ -24,4 +24,4 @@ and a suggested plan of action.
    ```
 
 The app will start a local web server (by default on `http://127.0.0.1:5000`) where you can
-enter your situation and receive an analysis.
+have a back-and-forth conversation about your relationship questions.
